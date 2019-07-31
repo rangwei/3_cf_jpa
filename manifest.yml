@@ -1,0 +1,7 @@
+---
+applications:
+# Application
+- name: gs-accessing-data-jpa
+  instances: 1
+  memory: 1024M
+  path: target/gs-accessing-data-jpa-0.1.0.jar
